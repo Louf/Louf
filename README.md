@@ -1,6 +1,6 @@
-## Hi there 👋
+## Louis Farmer - Software Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louf)](https://github.com/Louf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louf&layout=compact)](https://github.com/Louf)
 
 <!--
 **Louf/Louf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
